@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About crazy CQ"
+title: "𝓬𝓻𝓪𝔃𝔂 𝓒𝓠 here!"
 author_profile: true
 redirect_from: 
   - /about/
