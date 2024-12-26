@@ -1,7 +1,7 @@
 ---
 title: 'My Memories'
 date: 2024.12.27
-permalink: /posts/My_Memories
+permalink: /posts/2024/12/My_Memories
 ---
 # 一些记忆
 
